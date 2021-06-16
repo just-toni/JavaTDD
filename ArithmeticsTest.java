@@ -1,5 +1,6 @@
 package FirstSetOfTddPractice;
 
+import FirstSetOfTddPractice.Arithmetics.Arithmetics;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
